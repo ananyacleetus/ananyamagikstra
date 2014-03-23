@@ -2,7 +2,7 @@
 
 	<h2 id="team-title" class="section-title">Meet the Team</h2>
 
-	<ul id="exec" class="large-block-grid-2 medium-block-grid-4 small-block-grid-2">
+	<ul id="exec" class="large-block-grid-2 medium-block-grid-3 small-block-grid-2">
 
 		<li>
 			<div class="exec-img"></div>
@@ -15,6 +15,8 @@
 			<span class="role">Co-founder and Chief Operations Officer</span>
 
 		</li>
+		
+		<li></li>
 		
 		</ul> 
 		
