@@ -2,8 +2,9 @@
 
 	<h2 id="team-title" class="section-title">Meet the Team</h2>
 
-	<ul id="exec" class="large-block-grid-2 medium-block-grid-2 small-block-grid-2">
+	<ul id="exec" class="large-block-grid-4 medium-block-grid-2 small-block-grid-2">
 
+		<li></li>
 		<li>
 			<div class="exec-img"></div>
 			<span class="name">Ananya Cleetus</span>
