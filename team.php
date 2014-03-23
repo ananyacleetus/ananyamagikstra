@@ -2,7 +2,7 @@
 
 	<h2 id="team-title" class="section-title">Meet the Team</h2>
 
-	<ul id="exec" class="large-block-grid-2 medium-block-grid-3 small-block-grid-2">
+	<ul id="exec" class="large-block-grid-2 medium-block-grid-2 small-block-grid-2">
 
 		<li>
 			<div class="exec-img"></div>
@@ -16,8 +16,8 @@
 
 		</li>
 		
-		<li></li>
-		
+		<li> <div></div><span></span><span></span></li>
+
 		</ul> 
 		
 		<ul id="exec" class="large-block-grid-4 medium-block-grid-3 small-block-grid-2">
