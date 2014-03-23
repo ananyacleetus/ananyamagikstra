@@ -16,7 +16,7 @@
 
 		</li>
 		
-		<li> <div></div><span></span><span></span></li>
+		<li> <div>(&nbsp;)</div></li>
 
 		</ul> 
 		
