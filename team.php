@@ -8,12 +8,12 @@
 		<li>
 			<div class="exec-img"></div>
 			<span class="name">Ananya Cleetus</span>
-			<span class="role">Co-founder and Chief Executive Officer</span>
+			<span class="role">Co-founder and <br> Chief Executive Officer</span>
 		</li>
 		<li>
 			<div class="exec-img"></div>
 			<span class="name">Courtney Thurston</span>
-			<span class="role">Co-founder and Chief Operations Officer</span>
+			<span class="role">Co-founder and <br> Chief Operations Officer</span>
 
 		</li>
 		
