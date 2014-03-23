@@ -42,7 +42,7 @@
 
 		</li> 
 		<li>
-			<div class="exec-img"><img src="img/aishwaryaborkar.png"></div>
+			<div class="exec-img"><img src="img/aishwaryaborkar.png" height="150" width = "220"></div>
 			<span class="name">Aishwarya Borkar</span>
 			<span class="role">Chief Information Officer</span>
 
